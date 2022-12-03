@@ -1,0 +1,2 @@
+# Plugins
+Vscode plugins boilerplate
