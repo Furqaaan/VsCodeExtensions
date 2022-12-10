@@ -6,3 +6,6 @@ Vscode plugins that i use
  
 ```ErrorLens``` \
   To see errors in the editor itself\
+
+```javascript console utils``` \
+  To log items to console easily\
