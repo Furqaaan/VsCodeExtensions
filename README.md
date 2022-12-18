@@ -9,3 +9,6 @@ Vscode plugins that i use
 
 ```javascript console utils``` \
   To log items to console easily\
+
+```Quokka``` \
+  To console log items next to console log statements in code editor\
