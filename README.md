@@ -12,3 +12,6 @@ Vscode plugins that i use
 
 ```Quokka``` \
   To console log items next to console log statements in code editor
+
+```Code Spell Checker ``` \
+  Shows mistyped words in editor
