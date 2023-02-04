@@ -1,6 +1,10 @@
 # Plugins
 Vscode plugins that i use
 
+```Google Fonts``` \
+ Enables us to get google font links right from our editor<br/>
+ -Lior CHAML-
+
 ```Eslint``` \
  To better format code and find error
  
