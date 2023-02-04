@@ -3,7 +3,7 @@ Vscode plugins that i use
 
 ```Google Fonts``` \
  Enables us to get google font links right from our editor<br/>
- -Lior CHAML-
+https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
 
 ```Eslint``` \
  To better format code and find error
