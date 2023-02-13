@@ -1,6 +1,10 @@
 # Plugins
 Vscode plugins that i use
 
+```inline fold``` \
+ Hides long classnames from elements , usefull when using tailwind css<br/>
+https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold
+
 ```Import Cost``` \
  Shows the size of a package when we are importing and using it<br/>
 https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
