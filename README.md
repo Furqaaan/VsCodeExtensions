@@ -1,6 +1,10 @@
 # Plugins
 Vscode plugins that i use
 
+```Import Cost``` \
+ Shows the size of a package when we are importing and using it<br/>
+https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost
+
 ```Google Fonts``` \
  Enables us to get google font links right from our editor<br/>
 https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts
