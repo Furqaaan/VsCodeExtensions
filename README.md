@@ -1,6 +1,10 @@
 # Plugins
 Vscode plugins that i use
 
+```Tailwind Shades``` \
+ Get shade classes for your custom colors in tailwind<br/>
+https://marketplace.visualstudio.com/items?itemName=bourhaouta.tailwindshades
+
 ```inline fold``` \
  Hides long classnames from elements , usefull when using tailwind css<br/>
 https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold
