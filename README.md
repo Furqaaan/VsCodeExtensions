@@ -4,7 +4,7 @@ Vscode plugins that i use
 
 ```Tailwind Twin IntelliSense``` \
  Better tailwind intellisense<br/>
-(https://marketplace.visualstudio.com/items?itemName=lightyen.tailwindcss-intellisense-twin
+https://marketplace.visualstudio.com/items?itemName=lightyen.tailwindcss-intellisense-twin
 
 ```Tailwind Shades``` \
  Get shade classes for your custom colors in tailwind<br/>
