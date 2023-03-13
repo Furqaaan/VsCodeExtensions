@@ -2,6 +2,10 @@
 Vscode plugins that i use
 
 
+```Path Intellisense``` \
+ Better path auto completion<br/>
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
 ```Tailwind Twin IntelliSense``` \
  Better tailwind intellisense<br/>
 https://marketplace.visualstudio.com/items?itemName=lightyen.tailwindcss-intellisense-twin
