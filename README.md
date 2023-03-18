@@ -1,6 +1,9 @@
 # Plugins
 Vscode plugins that i use
 
+```ReacTree``` \
+ View react components in a tree structure<br/>
+https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree
 
 ```Path Intellisense``` \
  Better path auto completion<br/>
