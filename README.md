@@ -1,6 +1,10 @@
 # Plugins
 Vscode plugins that i use
 
+```NestJS Files``` \
+ To easily create nestjs files by right click<br/>
+[https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files)
+
 ```ReacTree``` \
  View react components in a tree structure<br/>
 https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree
