@@ -1,5 +1,5 @@
 # Plugins
-Vscode plugins that i use
+Vscode extensions that i use
 
 ```NestJS Files``` \
  To easily create nestjs files by right click<br/>
