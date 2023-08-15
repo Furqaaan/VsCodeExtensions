@@ -1,6 +1,10 @@
 # Plugins
 Vscode extensions that i use
 
+```Total TypeScript``` \
+Provides better typescript errors<br/>
+https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator
+
 ```NestJS Files``` \
  To easily create nestjs files by right click<br/>
 [https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files)
