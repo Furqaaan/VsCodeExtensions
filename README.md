@@ -1,6 +1,10 @@
 # Plugins
 Vscode extensions that i use
 
+```Multiple cursor case preserve``` \
+Preserve case when doing multiple line editing<br/>
+[https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+
 ```Total TypeScript``` \
 Provides better typescript errors<br/>
 https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator
