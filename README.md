@@ -1,9 +1,17 @@
 # Plugins
 Vscode extensions that i use
 
+```Easy Snippet``` \
+To create code snippets<br/>
+https://marketplace.visualstudio.com/items?itemName=inu1255.easy-snippet
+
+```Template String Converter``` \
+To automatically convert string to template strings<br/>
+https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter
+
 ```Multiple cursor case preserve``` \
 Preserve case when doing multiple line editing<br/>
-[https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)
+https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve
 
 ```Total TypeScript``` \
 Provides better typescript errors<br/>
@@ -11,7 +19,7 @@ https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translat
 
 ```NestJS Files``` \
  To easily create nestjs files by right click<br/>
-[https://marketplace.visualstudio.com/items?itemName=ReacTreeDev.reactree](https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files)
+https://marketplace.visualstudio.com/items?itemName=AbhijoyBasak.nestjs-files
 
 ```ReacTree``` \
  View react components in a tree structure<br/>
