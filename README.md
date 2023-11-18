@@ -1,6 +1,10 @@
 # Plugins
 Vscode extensions that i use
 
+```change-case``` \
+Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word<br/>
+https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
+
 ```TabOut``` \
 Tab out of quotes, brackets<br/>
 https://marketplace.visualstudio.com/items?itemName=albert.TabOut
