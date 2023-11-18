@@ -1,6 +1,14 @@
 # Plugins
 Vscode extensions that i use
 
+```TabOut``` \
+Tab out of quotes, brackets<br/>
+https://marketplace.visualstudio.com/items?itemName=albert.TabOut
+
+```HTML End Tag Labels``` \
+Html ending tags would be marked with their classes or id<br/>
+https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels
+
 ```Easy Snippet``` \
 To create code snippets<br/>
 https://marketplace.visualstudio.com/items?itemName=inu1255.easy-snippet
