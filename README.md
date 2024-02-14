@@ -1,6 +1,14 @@
 # Plugins
 Vscode extensions that i use
 
+```sonarlint``` \
+Detects issues in code <br/>
+https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode
+
+```php tools``` \
+Better PHP code recommendations<br/>
+https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode
+
 ```change-case``` \
 Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word<br/>
 https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case
